@@ -64,6 +64,7 @@ main h1 {
 
 span {
    color: #9B05D1;
+   margin-left: -15px;
 }
 
 form {
@@ -164,7 +165,7 @@ input {
 
    }
 
-   span.link {
+   .link {
       display: none;
    }
 
